@@ -1,0 +1,11 @@
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/deckOfCards/obj/Debug/netcoreapp2.2/deckOfCards.csprojAssemblyReference.cache
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/deckOfCards/obj/Debug/netcoreapp2.2/deckOfCards.csproj.CoreCompileInputs.cache
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/deckOfCards/obj/Debug/netcoreapp2.2/deckOfCards.AssemblyInfoInputs.cache
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/deckOfCards/obj/Debug/netcoreapp2.2/deckOfCards.AssemblyInfo.cs
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/deckOfCards/bin/Debug/netcoreapp2.2/deckOfCards.deps.json
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/deckOfCards/bin/Debug/netcoreapp2.2/deckOfCards.runtimeconfig.json
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/deckOfCards/bin/Debug/netcoreapp2.2/deckOfCards.runtimeconfig.dev.json
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/deckOfCards/bin/Debug/netcoreapp2.2/deckOfCards.dll
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/deckOfCards/bin/Debug/netcoreapp2.2/deckOfCards.pdb
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/deckOfCards/obj/Debug/netcoreapp2.2/deckOfCards.dll
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/deckOfCards/obj/Debug/netcoreapp2.2/deckOfCards.pdb
